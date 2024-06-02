@@ -23,5 +23,35 @@ header{
 }
 
 .logo{
-  
+  font-family: 'Bebas Neue';
+  font-size: 28px;
+  color: #fefefe;
+}
+
+.hamburguer{
+  display: none;
+}
+
+.nav-bar ul{
+  display: flex;
+}
+
+.nav-bar ul li a{
+  display: block;
+  color: #fefefe;
+  font-size: 20px;
+  padding: 10px 25px;
+  border-radius: 50px;
+  transition: 0.2s;
+  margin: 0 5px;
+}
+
+.nav-bar ul li a:hover{
+  color: var(--verde-escuro);
+  background: var(--verde-limao);
+}
+
+.nav-bar ul li a.active{
+  color: var(--verde-escuro);
+  background: var(--verde-limao);
 }
