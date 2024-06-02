@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}  
+
+:root{
+    --verde-escuro : #0C5D31;
+    --verde-limao : #94DD26;
+    --verde-medio : #137F44;
+    --cinza-medio : #737373;
+    --cinza-escuro : #545454;
+
+}
+
