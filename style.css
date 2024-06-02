@@ -51,7 +51,8 @@ header{
   background: var(--verde-limao);
 }
 
-.nav-bar ul li a.active{
-  color: var(--verde-escuro);
-  background: var(--verde-limao);
+@media only screen and (max:width: 1320px) {
+  header{
+    padding: 0 50px;
+  }
 }
