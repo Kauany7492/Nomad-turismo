@@ -18,3 +18,7 @@
   color: var(--verde-limao);
   font-size: 28px;
 }
+
+header{
+  background: var(--verde-escuro);
+}
