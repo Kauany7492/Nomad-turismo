@@ -15,5 +15,6 @@
 }
 
 .solo{
-  
+  color: var(--verde-limao);
+  font-size: 28px;
 }
