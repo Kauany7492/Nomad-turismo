@@ -12,19 +12,19 @@ a {
 }
 
 ::selection {
-  background-color: #e8ffff;
-  color: #373a40;
+  background-color: #1D1E70;
+  color: #8C91F1;
 }
 
 nav {
   padding: 1.5rem 2rem;
-  background-color: #222831;
-  color: #fff;
+  background-color: #1D1E70;
+  color: #8C91F1;
 }
 
 .checkbtn{
   font-size: 1.5rem;
-  color: white;
+  color: #8C91F1;
   cursor: pointer;
 }
 
@@ -40,19 +40,19 @@ nav {
   top: 4.5rem;
   left: 0;
   overflow: hidden;
-  background: #222831;
+  background: #1D1E70;
   z-index: 1;
   width: 200px;
 }
 
 .nav-mobile a {
-  color: #fff;
+  color: #8C91F1;
   padding: 1rem 1.5rem;
   display: block;
 }
 
 hr {
-  background-color: #393e46;
+  background-color: #1D1E70;
   padding: 1px;
   border: none;
 }
