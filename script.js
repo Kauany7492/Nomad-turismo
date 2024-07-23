@@ -26,3 +26,12 @@ slider.addEventListener('mousemove', e => {
   slider.scrollLeft = scrollLeft - walk;
 });
 
+document.getElementById("inicio-botao").addEventListener("click", function() {
+    document.getElementById("inicio").style = "display:block;"
+    document.getElementById("pacotes").style = "display:none;"
+})
+
+document.getElementById("pacotes-botao").addEventListener("click", function() {
+    document.getElementById("inicio").style = "display:none;"
+    document.getElementById("pacotes").style = "display:block;"
+})
