@@ -102,6 +102,13 @@ hr {
 }
 
 li {
-	scroll-snap-align: center;
-	
+	scroll-snap-align: center;	
+}
+
+ul{
+	list-style-type: none;
+}
+
+#pacotes{
+	display: none;
 }
