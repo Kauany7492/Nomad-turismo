@@ -7,10 +7,6 @@ p {
   margin: 1rem 0;
 }
 
-a {
-  text-decoration: none;
-}
-
 ::selection {
   background-color: #1D1E70;
   color: #8C91F1;
@@ -45,7 +41,7 @@ nav {
   width: 200px;
 }
 
-.nav-mobile a {
+.nav-mobile button {
   color: #8C91F1;
   padding: 1rem 1.5rem;
   display: block;
