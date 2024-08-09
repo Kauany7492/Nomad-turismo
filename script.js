@@ -35,3 +35,8 @@ document.getElementById("pacotes-botao").addEventListener("click", function() {
     document.getElementById("inicio").style = "display:none;"
     document.getElementById("pacotes").style = "display:block;"
 })
+
+document.getElementById("boston").addEventListener("click", function() {
+  document.getElementById("pacotes").style = "display:none;"
+  document.getElementById("boston-descricao").style = "display:block;"
+})
