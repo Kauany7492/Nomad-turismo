@@ -71,11 +71,6 @@ document.getElementById("bonito").addEventListener("click", function() {
   document.getElementById("bonito-descricao").style = "display:block;"
 })
 
-document.getElementById("ubatuba").addEventListener("click", function() {
-  document.getElementById("pacotes").style = "display:none;"
-  document.getElementById("ubatuba-descricao").style = "display:block;"
-})
-
 document.getElementById("guaruja").addEventListener("click", function() {
   document.getElementById("pacotes").style = "display:none;"
   document.getElementById("guaruja-descricao").style = "display:block;"
@@ -89,11 +84,6 @@ document.getElementById("capao-da-canoa").addEventListener("click", function() {
 document.getElementById("canela").addEventListener("click", function() {
   document.getElementById("pacotes").style = "display:none;"
   document.getElementById("canela-descricao").style = "display:block;"
-})
-
-document.getElementById("matinhos").addEventListener("click", function() {
-  document.getElementById("pacotes").style = "display:none;"
-  document.getElementById("matinhos-descricao").style = "display:block;"
 })
 
 document.getElementById("guaratuba").addEventListener("click", function() {
