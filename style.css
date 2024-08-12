@@ -100,7 +100,7 @@ hr {
 	grid-column-gap: 1rem;
 	grid-row-gap: 1rem;
 	overflow: scroll;
-	height: 90vh;
+	height: 20vh;
 	scroll-snap-type: both mandatory;
 	scroll-padding: 1rem;
 }
